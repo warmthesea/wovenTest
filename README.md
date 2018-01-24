@@ -101,10 +101,7 @@ woven.run('function name', payload)
         <br>
         <p>Author</p>
         
-        </a>
-		<br>
-      </td>
- 
+     
      
   </tbody>
 </table>
