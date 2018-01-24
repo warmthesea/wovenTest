@@ -71,7 +71,7 @@ woven.run('function name', payload)
       <td align="center" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">
         <br>
-        <a href="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">Althea Capra</a>
+        <a href="https://github.com/LazarusCrown">Althea Capra</a>
         <p>Core</p>
         <br>
         <p>Founder of webpack</p>
@@ -79,7 +79,7 @@ woven.run('function name', payload)
       <td align="center" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">
         <br>
-        <a href="https://user-images.githubusercontent.com/4038732/35314688-affa1d36-007c-11e8-89c2-2492d174b7dc.jpg">Eric Larson</a>
+        <a href="https://github.com/erikwlarsen">Eric Larson</a>
         <p>Loaders &amp; Plugins</p>
         <br>
         <p>Early adopter of webpack</p>
@@ -87,8 +87,7 @@ woven.run('function name', payload)
       <td align="center" width="20%" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314689-b00cfc1c-007c-11e8-97b4-b38651546a12.jpg">
         <br>
-        <a href="https://user-images.githubusercontent.com/4038732/35314689-b00cfc1c-007c-11e8-97b4-b38651546a12.jpg">
-		Ryan London</a>
+        <a href="https://github.com/ryanlondon">Ryan London</a>
         <p>Public Relations</p>
         <br>
         <p>Founder of the core team</p>
