@@ -65,6 +65,49 @@ woven.run('function name', payload)
  
 
 ## Authors
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/sokra.png?s=150">
+        <br>
+        <a href="https://github.com/sokra">Tobias Koppers</a>
+        <p>Core</p>
+        <br>
+        <p>Founder of webpack</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/jhnns.png?s=150">
+        <br>
+        <a href="https://github.com/jhnns">Johannes Ewald</a>
+        <p>Loaders &amp; Plugins</p>
+        <br>
+        <p>Early adopter of webpack</p>
+      </td>
+      <td align="center" width="20%" valign="top">
+        <img width="150" height="150" src="https://github.com/TheLarkInn.png?s=150">
+        <br>
+        <a href="https://github.com/TheLarkInn">Sean T. Larkin</a>
+        <p>Public Relations</p>
+        <br>
+        <p>Founder of the core team</p>
+      </td>
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://github.com/bebraw.png?s=150">
+        <br>
+        <a href="https://github.com/bebraw">Juho Vepsäläinen</a>
+        <p>Documentation</p>
+        <br>
+        <p>Author</p>
+        <a href="https://leanpub.com/survivejs-webpack">
+          <img height="15" src="https://cloud.githubusercontent.com/assets/1365881/20286923/93e325c0-aac9-11e6-964d-cabe218c584c.png">
+        </a>
+		<br>
+      </td>
+ 
+     </tr>
+  </tbody>
+</table>
 
 
 
