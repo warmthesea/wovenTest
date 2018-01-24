@@ -105,7 +105,7 @@ woven.run('function name', payload)
 		<br>
       </td>
  
-     </tr>
+     
   </tbody>
 </table>
 
