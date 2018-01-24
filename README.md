@@ -1,5 +1,5 @@
 # WovenJS
-<img align ="center">![WovenJS](https://user-images.githubusercontent.com/4038732/35308559-0f5c6e3e-005d-11e8-82c1-70db0505ed68.png)</p>
+<img align ="center" ![WovenJS](https://user-images.githubusercontent.com/4038732/35308559-0f5c6e3e-005d-11e8-82c1-70db0505ed68.png)>
 WovenJS abstracts away the architectural complexity of multi-threading and utilizes optimization metrics to guide your application through the most performant process. Based on client technical information and network strength, WovenJS dynamically runs intensive processes on the server or on the client. When running on the client, WovenJS leverages the Web Workers API to prevent blocking of the web browser's single thread.
 
 
