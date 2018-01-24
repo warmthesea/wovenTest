@@ -46,7 +46,7 @@ woven.run('function name', payload)
   <img src="https://user-images.githubusercontent.com/4038732/35308546-05bdf154-005d-11e8-9877-ceabb6a07424.png">
   <img src="https://user-images.githubusercontent.com/4038732/35308554-09e7228c-005d-11e8-9329-f49ab7580292.png">
   <img src="https://user-images.githubusercontent.com/4038732/35308551-07f95ea4-005d-11e8-8d81-4b8ade2db02f.png">
-  <img src="https://user-images.githubusercontent.com/4038732/35308556-0d15a53c-005d-11e8-8a78-7d90477d12ea.png">
+  <img src="https://user-images.githubusercontent.com/4038732/35312909-8b81ba90-0072-11e8-9612-426cf8f92c32.png">
 </p>
 
 
