@@ -77,7 +77,7 @@ woven.run('function name', payload)
         <p></p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">
+        <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314688-affa1d36-007c-11e8-89c2-2492d174b7dc.jpg">
         <br>
         <a href="https://github.com/erikwlarsen">Eric Larson</a>
         <p></p>
@@ -95,7 +95,7 @@ woven.run('function name', payload)
       <td align="center" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314687-afe7f82c-007c-11e8-9ef2-99ecd3694e3d.jpg">
         <br>
-        <a href="https://user-images.githubusercontent.com/4038732/35314687-afe7f82c-007c-11e8-9ef2-99ecd3694e3d.jpg">Dale Nogiec</a>
+        <a href="https://github.com/warmthesea">Dale Nogiec</a>
         <p></p>
         <br>
         <p></p>
