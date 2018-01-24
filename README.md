@@ -72,33 +72,33 @@ woven.run('function name', payload)
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">
         <br>
         <a href="https://github.com/LazarusCrown">Althea Capra</a>
-        <p>Core</p>
+        <p></p>
         <br>
-        <p>Founder of webpack</p>
+        <p></p>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">
         <br>
         <a href="https://github.com/erikwlarsen">Eric Larson</a>
-        <p>Loaders &amp; Plugins</p>
+        <p></p>
         <br>
-        <p>Early adopter of webpack</p>
+        <p></p>
       </td>
       <td align="center" width="20%" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314689-b00cfc1c-007c-11e8-97b4-b38651546a12.jpg">
         <br>
         <a href="https://github.com/ryanlondon">Ryan London</a>
-        <p>Public Relations</p>
+        <p></p>
         <br>
-        <p>Founder of the core team</p>
+        <p></p>
       </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314687-afe7f82c-007c-11e8-9ef2-99ecd3694e3d.jpg">
         <br>
         <a href="https://user-images.githubusercontent.com/4038732/35314687-afe7f82c-007c-11e8-9ef2-99ecd3694e3d.jpg">Dale Nogiec</a>
-        <p>Documentation</p>
+        <p></p>
         <br>
-        <p>Author</p>
+        <p></p>
         
      
      
