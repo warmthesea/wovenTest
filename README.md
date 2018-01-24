@@ -77,7 +77,7 @@ woven.run('function name', payload)
         <p>Founder of webpack</p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/jhnns.png?s=150">
+        <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314686-afd44822-007c-11e8-8fef-92225d5fb4fa.jpg">
         <br>
         <a href="https://user-images.githubusercontent.com/4038732/35314688-affa1d36-007c-11e8-89c2-2492d174b7dc.jpg">Eric Larson</a>
         <p>Loaders &amp; Plugins</p>
@@ -85,7 +85,7 @@ woven.run('function name', payload)
         <p>Early adopter of webpack</p>
       </td>
       <td align="center" width="20%" valign="top">
-        <img width="150" height="150" src="https://github.com/TheLarkInn.png?s=150">
+        <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314689-b00cfc1c-007c-11e8-97b4-b38651546a12.jpg">
         <br>
         <a href="https://user-images.githubusercontent.com/4038732/35314689-b00cfc1c-007c-11e8-97b4-b38651546a12.jpg">
 		Ryan London</a>
@@ -94,14 +94,13 @@ woven.run('function name', payload)
         <p>Founder of the core team</p>
       </td>
       <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/bebraw.png?s=150">
+        <img width="150" height="150" src="https://user-images.githubusercontent.com/4038732/35314687-afe7f82c-007c-11e8-9ef2-99ecd3694e3d.jpg">
         <br>
         <a href="https://user-images.githubusercontent.com/4038732/35314687-afe7f82c-007c-11e8-9ef2-99ecd3694e3d.jpg">Dale Nogiec</a>
         <p>Documentation</p>
         <br>
         <p>Author</p>
-        <a href="https://leanpub.com/survivejs-webpack">
-          <img height="15" src="https://cloud.githubusercontent.com/assets/1365881/20286923/93e325c0-aac9-11e6-964d-cabe218c584c.png">
+        
         </a>
 		<br>
       </td>
